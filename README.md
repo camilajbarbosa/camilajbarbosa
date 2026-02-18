@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Camila Barbosa
 
-<!--
-**camilajbarbosa/camilajbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analytics Engineer with experience in Lakehouse environments, working at the intersection of business and data.
 
-Here are some ideas to get you started:
+I specialize in transforming raw data into reliable, scalable analytical models that support strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔎 Strong background in SQL and Databricks (Lakehouse architecture)
+- 📊 Experience designing and evolving analytical data models
+- 📐 Focused on data quality, KPI governance and metric standardization
+- 🤝 Acting as a bridge between business teams and technical teams
+- 📈 Delivering certified datasets for BI & self-service analytics
+
+---
+
+## 🛠 Tech Stack
+
+- SQL (Advanced)
+- Databricks (Lakehouse)
+- Python (Pandas)
+- Power BI (Advanced)
+- Data Modeling (Analytical)
+
+---
+
+## 📚 Currently
+
+🎓 MBA in Business Intelligence & Analytics (USP/ECA – expected 2027)
+
+---
+
+## 🌍 Languages
+
+- Portuguese (Native)
+- English (Intermediate)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/camilajbarbosa
