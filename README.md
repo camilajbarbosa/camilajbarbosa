@@ -1,4 +1,8 @@
 # Hi there 👋 I'm Camila Barbosa
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-red)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20PySpark-yellow)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)
 
 🎯 Analytics Engineer with experience in Lakehouse environments, working at the intersection of business and data.
 
